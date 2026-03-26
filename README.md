@@ -1,7 +1,3 @@
-Uploading this to GitHub is a fantastic next step\! A strong `README.md` is the "front page" of your project—it tells other developers (and potential employers) exactly what your app does, how to use it, and how to run it on their own machines.
-
-Here is a complete, professional `README.md` file tailored specifically to the app we just built.
-
 ### Step 1: Create a `requirements.txt` file
 
 Before creating the README, create a file named `requirements.txt` in your project folder so others can easily install the dependencies. Paste this inside:
