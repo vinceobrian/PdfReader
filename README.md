@@ -1,19 +1,3 @@
-### Step 1: Create a `requirements.txt` file
-
-Before creating the README, create a file named `requirements.txt` in your project folder so others can easily install the dependencies. Paste this inside:
-
-```text
-streamlit
-pandas
-pdfplumber
-plotly
-```
-
-### Step 2: Create the `README.md` file
-
-Create a new file named `README.md` in the same folder as your `app.py` and paste the following Markdown code into it:
-
-````markdown
 # 📄 Candidate Shift & Timezone Dashboard
 
 A modern, interactive web application built with **Python** and **Streamlit** that extracts candidate data from PDF files, analyzes it, and presents it in a dynamic dashboard. 
