@@ -43,8 +43,8 @@ This tool is designed to help recruiters or managers quickly visualize candidate
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/vinceobrian/pdfreader.git](https://github.com/vinceobrian/pdfreader)
+cd pdfreader
 ````
 
 **2. Install dependencies**
